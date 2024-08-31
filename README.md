@@ -43,7 +43,8 @@ To get started with this project, follow these steps:
 
 Here's an example of what the dropdown menu looks like:
 
-![Dropdown Menu Screenshot](screenshot.png)
+<img width="1512" alt="2" src="https://github.com/user-attachments/assets/4ad372a5-b5ae-46c7-9a98-f6d04aafbfce">
+
 
 ## Files
 
