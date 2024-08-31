@@ -75,21 +75,11 @@ If you want to contribute to this project, please follow these guidelines:
    ```
 5. **Create a Pull Request**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
 
 For any questions or suggestions, please reach out to:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: ayushpoudel@usf.edu
+- **GitHub**: [ayuspoudel](https://github.com/ayuspoudel)
 
 ```
 
-### Notes:
-- **Replace placeholders** (like `your-username`, `your-email@example.com`, and `screenshot.png`) with your actual details.
-- **Screenshot**: If you want to include a screenshot of the dropdown menu, make sure to add a screenshot file to your repository and update the `![Dropdown Menu Screenshot](screenshot.png)` line with the correct file path.
-
-Feel free to adjust the content based on your specific project requirements and preferences.
